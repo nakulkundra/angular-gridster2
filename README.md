@@ -1,4 +1,4 @@
-angular-gridster2 For Angular 4 with IFRAME Drag Issue Fixed
+Angular-gridster2 For Angular 4 with IFRAME Drag Issue Fixed
 ==============
 [![npm version](https://badge.fury.io/js/angular-gridster2.svg)](https://badge.fury.io/js/angular-gridster2)
 [![dependencies Status](https://david-dm.org/tiberiuzuld/angular-gridster2/status.svg)](https://david-dm.org/tiberiuzuld/angular-gridster2)
@@ -8,7 +8,7 @@ angular-gridster2 For Angular 4 with IFRAME Drag Issue Fixed
 
 ### Angular implementation of angular-gridster [Demo](http://tiberiuzuld.github.io/angular-gridster2)
 
-### Requires Angular 6.x
+
 ### For other Angular versions check the other branches.
 
 ## Install
